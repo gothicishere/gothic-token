@@ -1,0 +1,45 @@
+{
+    "name": "gothic-token",
+    "version": "1.0.5",
+    "description": "Obtain information from a Discord user using their token.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gothicishere/gothic-token"
+    },
+    "keywords": [
+        "http",
+        "discord",
+        "tokeninformation",
+        "tokens",
+        "token",
+        "discordapi",
+        "https",
+        "cache",
+        "request",
+        "discord.js",
+        "discord.js-selfbot-v13",
+        "sync",
+        "user information",
+        "authentication"
+    ],
+    "author": "Gothic",
+    "license": "MIT",
+    "dependencies": {
+        "sync-fetch": "^0.5.2"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "homepage": "https://github.com/gothicishere/gothic-token",
+    "bugs": {
+        "url": "https://github.com/gothicishere/gothic-token/issues"
+    },
+    "deprecated": false,
+    "files": [
+        "index.js"
+    ]
+}
